@@ -2,7 +2,7 @@
 This automation is written in TypeScript (a strict syntactical superset of JavaScript and adds optional static typing to the language)
 ```bash
 Nama : Rani Septhia Dewi
-Ini adalah Tugas UI Testing WebdriverIO-Cucumber Kasir Aja Sanbercode
+Ini adalah Tugas Akhir
 ```
 ## Running Tests
 
